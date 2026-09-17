@@ -1,0 +1,11 @@
+Block Diagram
+
+The block diagram shows the main parts of the 8051 and how they work together. It has the CPU, memory, I/O ports, timers, serial communication and interrupts. The CPU controls all these parts and executes the program given to the microcontroller.
+
+Architecture
+
+8051 is an 8-bit microcontroller with 4 KB ROM, 128 bytes RAM and four 8-bit I/O ports. It also has two timers, serial communication and interrupt control. In our experiment, we used Port 1 to control the LED and used a delay loop to make it blink.
+
+Pin Diagram
+
+The 8051 has 40 pins, which include four ports P0, P1, P2 and P3. It also has pins for power supply, reset and the crystal oscillator. For our experiment, P1.0 (Pin 1) was used to connect and control the LED.
