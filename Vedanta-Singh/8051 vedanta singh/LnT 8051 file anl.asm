@@ -1,0 +1,3 @@
+MOV A, #12H;
+ANL A, #20H;
+EXIT: SJMP EXIT
